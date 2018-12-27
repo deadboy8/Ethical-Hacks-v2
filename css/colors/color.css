@@ -1,0 +1,118 @@
+
+
+.action-wrap p,
+.prev:hover,
+.next:hover,
+#royal_preloader.text .loader,
+.like-our-proj span,
+.list-social-nav li:hover.icon-soc-nav a,
+.cd-scndr-nav a.curent-nav-color,
+.cd-primary-nav .cd-scndr-nav .cd-label a:hover,
+.footer-copy-text a:hover,
+.about-box .icon,
+.services-box .icon,
+.team-box p,
+.quote-wrap-hart .icon,
+a.blog-link,
+#filter li a:hover,
+#filter li .current,
+.blog-box-1 .date p em,
+#ajax-form button,
+.contact-block .text p span,
+.link-recents a:hover,
+.pricing-item .number-price span,
+.pricing-item .number-price span:last-child{
+	color:#16a085;
+}
+.hero-top p:after,
+.header-text p:after,
+.cd-item .portfolio-box .line,
+h4.features:after{
+	border-top:1px solid #16a085;
+	border-bottom:1px solid #16a085;
+}
+.hero-top .link-top:hover{
+	background:#16a085;	
+	border:1px solid #16a085;
+}
+.scroll-to-top:hover,
+.btn-projects,
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span,
+.team-box .list-social-team li:hover,
+#cd-zoom-in, #cd-zoom-out,
+.pro-bar,
+.smk_accordion .accordion_in .acc_head:hover,
+.smk_accordion .accordion_in.acc_active > .acc_head {
+	background-color:#16a085;
+}
+.color-background,
+#bar,
+#bar-quote,
+.list-social li:hover,
+.tags-block a:hover,
+.tags-block a.autor-link:hover,
+.post-sidebar input:active,
+.post-sidebar input:focus,
+.link-tag a:hover,
+.block:hover,
+.pricing-item a.price-link{
+	background: #16a085;
+}
+::selection {
+	background: #16a085;
+	}
+::-moz-selection {
+	background: #16a085;
+}
+#ajax-form textarea:focus,
+#ajax-form input:focus,
+#ajax-form textarea:active,
+#ajax-form input:active {	
+	border-bottom:1px solid #16a085;
+}
+#ajax-form button:hover {
+	background:#16a085;
+}
+.post-sidebar input:-ms-input-placeholder  {
+	color:#16a085;
+}
+.post-sidebar input::-moz-placeholder  {
+	color:#16a085;
+}
+.post-sidebar input:-moz-placeholder  {
+	color:#16a085;
+}
+.post-sidebar input::-webkit-input-placeholder  {
+	color:#16a085;
+}
+.pricing-item:hover{
+	border-color:#16a085;
+}
+.pricing-item.popular{
+	border-color:#16a085;
+}
+
+.gu-box{
+	border-left:2px solid #16a085;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
